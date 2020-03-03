@@ -1,16 +1,7 @@
 # SortingAlgorithms
 
-This python program is an extention of.
+This is a python program that is an extention of my search and sorting algorithm program, which can be found in my searchSort repository. This program retains the same sorting requirements from the java program. The purpose of this program is to run each of the four different sorting algorithms 100 times on a two-dimentional array (100 rows x 100 columns), and record the runtime for each of the 100 iterations of the four sorting algorithms. The runtimes will be stored into a csv file, and a plot will be created and outputed to a jpg file containing a line graph for the four sorting algorithms.  
 
-##  Calculation for the moving average.
+##  Purpose.
 
-First, prompt the user to input a window period for which they would like to calculate the moving average. Then create a range for the years to be used for the calculation, which is found through using the first year in the csv file + (plus) the window period and the last year in the csv file - (minus) the window period. For example, the first year in the csv file is 1880 and the last is 2018. Given a 60 year window period, the range for this calculation is 1940-1958. Now, let i equal a year contained within the given range, and let k equal the specified window period. The calculation goes as follows: moving_average = (i-k.temperature + ... + i-2.temperature + i-1.temperature + i.temperature + i+1.temperature + i+2.temperature + ... + i+k.temperature) / (2 * k + 1). In the stated example, to calculate the moving average temperture for the year 1940, sum the temperature values from 1880 through 2000 and divide by two times the window period plus one. This process would be repeated for all the years contained in the range.
-
-### Prerequisites
-
-The prerequisite for this program is the "NorCal-1880-2018" csv file, which is included in the repository.
-
-### Example Output
-Given a window period of 60, the output of the moving_average csv file should be the following:
-
-Year:    1940     1941    1942  ...   1956    1957     1958
+This program is not associated with any computer science courses at Sac State. The purpose of this program was to test my ability to translate code from one programming language to another. In addition, I wanted to gain practice using the pandas and matplot libraries, and learn to output data to csv file and familiarize myself plotting data as well.
