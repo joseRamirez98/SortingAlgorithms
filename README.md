@@ -10,10 +10,9 @@ This program is a personal project. The purpose of this program was to test my a
 
 Python 3.
 
-Tested with Python 3.4.1 on Mac OS X 10.14
+Tested with Python 3.7 on Mac OS X 10.14
 
-Requires external packages, so download.
-
+Requires external packages, so download a distribution of Anaconda to install necessary packages. <a href="https://www.anaconda.com/distribution/">Click Here</a>
 ##  Unit Test
 
 Since the program is made to run once and accpets no user inputs, there are no units tests besides presenting what the output of the program should be. 
