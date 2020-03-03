@@ -10,4 +10,10 @@ This program is not associated with any computer science courses at Sac State. T
 
 Since the program is made to run once and accpets no user inputs, there are no units tests besides presenting what the output of the program should be. 
 
+The plot output should mirror the following:
+
 <img src="runtimes.jpg?raw=true">
+
+The first 25 runtimes for each sorting algorithm in the csv file should mirror the following:
+
+<img src="csv output.png?raw=true">
