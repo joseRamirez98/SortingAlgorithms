@@ -6,6 +6,14 @@ This is a python program that is an extention of my search and sorting algorithm
 
 This program is a personal project. The purpose of this program was to test my ability to translate code from one programming language to another. In addition, I wanted to gain practice using the pandas and matplot libraries, and learn to output data to csv file and familiarize myself plotting data as well.
 
+### Requirements
+
+Python 3.
+
+Tested with Python 3.4.1 on Mac OS X 10.14
+
+Doesn't require any external packages, so it should be platform-agnostic.
+
 ##  Unit Test
 
 Since the program is made to run once and accpets no user inputs, there are no units tests besides presenting what the output of the program should be. 
