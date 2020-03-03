@@ -12,7 +12,7 @@ Python 3.
 
 Tested with Python 3.4.1 on Mac OS X 10.14
 
-Doesn't require any external packages, so it should be platform-agnostic.
+Requires external packages, so download.
 
 ##  Unit Test
 
