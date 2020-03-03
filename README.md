@@ -4,7 +4,7 @@ This is a python program that is an extention of my search and sorting algorithm
 
 ##  Purpose
 
-This program is not associated with any computer science courses at Sac State. The purpose of this program was to test my ability to translate code from one programming language to another. In addition, I wanted to gain practice using the pandas and matplot libraries, and learn to output data to csv file and familiarize myself plotting data as well.
+This program is a personal project. The purpose of this program was to test my ability to translate code from one programming language to another. In addition, I wanted to gain practice using the pandas and matplot libraries, and learn to output data to csv file and familiarize myself plotting data as well.
 
 ##  Unit Test
 
