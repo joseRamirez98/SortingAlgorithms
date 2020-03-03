@@ -6,7 +6,7 @@ This is a python program that is an extention of my search and sorting algorithm
 
 This program is not associated with any computer science courses at Sac State. The purpose of this program was to test my ability to translate code from one programming language to another. In addition, I wanted to gain practice using the pandas and matplot libraries, and learn to output data to csv file and familiarize myself plotting data as well.
 
-##  Unit Tests
+##  Unit Test
 
 Since the program is made to run once and accpets no user inputs, there are no units tests besides presenting what the output of the program should be. 
 
